@@ -1,7 +1,7 @@
 package EX_05;
 
 
-import javax.swing.plaf.basic.BasicGraphicsUtils;
+
 import java.util.Scanner;
 /**
  You’ll often write programs that deal with numbers. And depending on the programming language you use, you’ll have to convert the inputs you get to numerical data types.
